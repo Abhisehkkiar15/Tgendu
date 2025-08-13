@@ -1,7 +1,3 @@
-# ITSGOLU_OFFICIAL Configuration File
-# Owner: https://t.me/ITSGOLU_OFFICIAL
-# Created by: ITSGOLU_OFFICIAL
-
 """
 ClassPlus Token Generator Configuration
 This file contains configuration settings for the token generator
@@ -9,8 +5,8 @@ This file contains configuration settings for the token generator
 
 # Application Settings
 APP_NAME = "ClassPlus Auto Token Generator"
-OWNER = "ITSGOLU_OFFICIAL"
-CONTACT = "https://t.me/ITSGOLU_OFFICIAL"
+OWNER = "All classes Morena"
+CONTACT = "https://t.me/Final_piece"
 
 # Token Generation Settings
 MAX_RETRY_ATTEMPTS = 10
